@@ -6,12 +6,12 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  name: 'Victor Ruiz',
+  role: 'Periodista',
+  picture: 'https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/1dc374997261eb9c86bd839c2f7d7cce~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=56639ed2&x-expires=1787842800&x-signature=QxI%2FzSKpLEkdlGZwk%2FS5c%2FBOIyE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Periodista recién graduado con enfoque en contenido deportivo digital. Creador de vídeos sobre fútbol en TikTok, combinando análisis táctico y actualidad con un formato ágil pensado para audiencias jóvenes.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -39,14 +39,7 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
     image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    videoUrl: 'oR6zsQZZdXs'
   },
 ]
 
